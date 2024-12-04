@@ -1,0 +1,4 @@
+---
+clickhouse_ip: "158.160.43.255"
+
+lighthouse_vcs: "https://github.com/VKCOM/lighthouse.git"
